@@ -6,7 +6,7 @@
         {idmovie:"123123",nmmovie:"Space Bow",urlimage:"https://s3.indexmovies.xyz/wp-content/uploads/2015/12/film-space-cowboys-2000.jpg"},
         {idmovie:"123123",nmmovie:"Hometow",urlimage:"https://s7.indexmovies.xyz/wp-content/uploads/2021/11/film-hometown-cha-cha-cha-gaetmaeul-chachacha-2021-d21.jpg"},
         {idmovie:"123123",nmmovie:"The Falcon",urlimage:"https://s0.indexmovies.xyz/wp-content/uploads/2021/11/film-the-falcon-and-the-winter-soldier-2021-d21.jpg"},
-        {idmovie:"123123",nmmovie:"Jurassic Park World",urlimage:"https://s5.indexmovies.xyz/wp-content/uploads/2022/06/film-jurassic-world-dominion-2022-lk21-d21.jpg"},
+        {idmovie:"123123",nmmovie:"The Pirates: The Last Royal Treasure (2022)",urlimage:"https://s5.indexmovies.xyz/wp-content/uploads/2022/03/film-the-pirates-the-last-royal-treasure-2022-lk21-d21.jpg"},
         {idmovie:"123123",nmmovie:"Doctor Stranger",urlimage:"https://s6.indexmovies.xyz/wp-content/uploads/2022/05/film-doctor-strange-in-the-multiverse-of-madness-2022-lk21-d21.jpg"},
     ]
 </script>
