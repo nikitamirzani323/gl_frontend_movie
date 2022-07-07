@@ -10,6 +10,26 @@
         {idmovie:"123123",nmmovie:"Doctor Stranger",urlimage:"https://s6.indexmovies.xyz/wp-content/uploads/2022/05/film-doctor-strange-in-the-multiverse-of-madness-2022-lk21-d21.jpg"},
     ]
 </script>
+<section class="flex scrollbar-thin hover:scrollbar-thumb-slate-400 overflow-x-scroll  h-16">
+    <ul class="flex items-center select-none gap-2">
+        <li class="btn btn-active btn-ghost btn-sm">ACTION</li>
+        <li class="btn btn-active btn-ghost btn-sm">WAR</li>
+        <li class="btn btn-active btn-ghost btn-sm">THRILLER</li>
+        <li class="btn btn-active btn-ghost btn-sm">DOCUMENTARY</li>
+        <li class="btn btn-active btn-ghost btn-sm">SCI-FI</li>
+        <li class="btn btn-active btn-ghost btn-sm">WAR</li>
+        <li class="btn btn-active btn-ghost btn-sm">BIOLOGY</li>
+        <li class="btn btn-active btn-ghost btn-sm">ANIME</li>
+        <li class="btn btn-active btn-ghost btn-sm">ACTION</li>
+        <li class="btn btn-active btn-ghost btn-sm">ACTION</li>
+        <li class="btn btn-active btn-ghost btn-sm">ACTION</li>
+        <li class="btn btn-active btn-ghost btn-sm">ACTION</li>
+        <li class="btn btn-active btn-ghost btn-sm">ACTION</li>
+        <li class="btn btn-active btn-ghost btn-sm">ACTION</li>
+        <li class="btn btn-active btn-ghost btn-sm">ACTION</li>
+        <li class="btn btn-active btn-ghost btn-sm">ACTION</li>
+    </ul>
+</section>
 
 <section class="card w-full bg-base-300 text-neutral-content rounded-none mt-5">
     <div class="card-body p-0 mb-2">
