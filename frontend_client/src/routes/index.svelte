@@ -1,13 +1,13 @@
 <script>
     let listmovie = [
-        {idmovie:"123123",nmmovie:"Rambo",urlimage:"https://s5.indexmovies.xyz/wp-content/uploads/2021/11/film-the-flash-2014-lk21-d21.jpg"},
-        {idmovie:"123123",nmmovie:"Rambo",urlimage:"https://s2.indexmovies.xyz/wp-content/uploads/2022/05/film-sonic-the-hedgehog-2-2022-lk21-d21.jpg"},
-        {idmovie:"123123",nmmovie:"Rambo",urlimage:"https://s6.indexmovies.xyz/wp-content/uploads/2022/01/film-superman-and-lois-superman-lois-2021-lk21-d21.jpg"},
-        {idmovie:"123123",nmmovie:"Rambo",urlimage:"https://s3.indexmovies.xyz/wp-content/uploads/2015/12/film-space-cowboys-2000.jpg"},
-        {idmovie:"123123",nmmovie:"Rambo",urlimage:"https://s7.indexmovies.xyz/wp-content/uploads/2021/11/film-hometown-cha-cha-cha-gaetmaeul-chachacha-2021-d21.jpg"},
-        {idmovie:"123123",nmmovie:"Rambo",urlimage:"https://s0.indexmovies.xyz/wp-content/uploads/2021/11/film-the-falcon-and-the-winter-soldier-2021-d21.jpg"},
-        {idmovie:"123123",nmmovie:"Rambo",urlimage:"https://s5.indexmovies.xyz/wp-content/uploads/2022/06/film-jurassic-world-dominion-2022-lk21-d21.jpg"},
-        {idmovie:"123123",nmmovie:"Rambo",urlimage:"https://s6.indexmovies.xyz/wp-content/uploads/2022/05/film-doctor-strange-in-the-multiverse-of-madness-2022-lk21-d21.jpg"},
+        {idmovie:"123123",nmmovie:"The Flash",urlimage:"https://s5.indexmovies.xyz/wp-content/uploads/2021/11/film-the-flash-2014-lk21-d21.jpg"},
+        {idmovie:"123123",nmmovie:"Sonic",urlimage:"https://s2.indexmovies.xyz/wp-content/uploads/2022/05/film-sonic-the-hedgehog-2-2022-lk21-d21.jpg"},
+        {idmovie:"123123",nmmovie:"Superman",urlimage:"https://s6.indexmovies.xyz/wp-content/uploads/2022/01/film-superman-and-lois-superman-lois-2021-lk21-d21.jpg"},
+        {idmovie:"123123",nmmovie:"Space Bow",urlimage:"https://s3.indexmovies.xyz/wp-content/uploads/2015/12/film-space-cowboys-2000.jpg"},
+        {idmovie:"123123",nmmovie:"Hometow",urlimage:"https://s7.indexmovies.xyz/wp-content/uploads/2021/11/film-hometown-cha-cha-cha-gaetmaeul-chachacha-2021-d21.jpg"},
+        {idmovie:"123123",nmmovie:"The Falcon",urlimage:"https://s0.indexmovies.xyz/wp-content/uploads/2021/11/film-the-falcon-and-the-winter-soldier-2021-d21.jpg"},
+        {idmovie:"123123",nmmovie:"Jurassic Park World",urlimage:"https://s5.indexmovies.xyz/wp-content/uploads/2022/06/film-jurassic-world-dominion-2022-lk21-d21.jpg"},
+        {idmovie:"123123",nmmovie:"Doctor Stranger",urlimage:"https://s6.indexmovies.xyz/wp-content/uploads/2022/05/film-doctor-strange-in-the-multiverse-of-madness-2022-lk21-d21.jpg"},
     ]
 </script>
 
